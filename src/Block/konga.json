@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "img": "../Asset/188910_1677909171.webp",
+    "UpTxt": "Long Jack Xxxl -60 Capsules",
+    "new": "17000",
+    "old": "2000",
+    "percent": "50",
+    "save": "20000",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  },
+  {
+    "id": 2,
+    "img": "../Asset/175355_1634802110.webp",
+    "UpTxt": "Double Fibre Filled Mattress Top...",
+    "new": "21,000",
+    "old": "23,000",
+    "percent": "8",
+    "save": "2000",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  },
+  {
+    "id": 3,
+    "img": "../Asset/_1631194335.webp",
+    "UpTxt": "Konga Courier Bag - Large - Bund...",
+    "new": "2000",
+    "old": "2400",
+    "percent": "16",
+    "save": "400",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  },
+  {
+    "id": 4,
+    "img": "../Asset/169529_1604051771.webp",
+    "UpTxt": "Men's Sneaker - Green & Brown",
+    "new": "6,500",
+    "old": "2000",
+    "percent": "50",
+    "save": "20000",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  },
+  {
+    "id": 5,
+    "img": "../Asset/177353_1664850422.webp",
+    "UpTxt": "HP Notebook Stream Pro 11",
+    "new": "21,000",
+    "old": "23,000",
+    "percent": "8",
+    "save": "2000",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  },
+
+  {
+    "id": 6,
+    "img": "../Asset/56261_1640696398.webp",
+    "UpTxt": "HP Notebook Stream Pro 11",
+    "new": "2000",
+    "old": "2400",
+    "percent": "16",
+    "save": "400",
+    "desc": "kwnbijbfebjhwbfjlrbjehbjrhjwbrlhwlaltrgkhqberhjgjwekhbrrlbrkj"
+  }
+]
